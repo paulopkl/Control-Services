@@ -5,7 +5,9 @@ this project was developed during the Week-SpringRest-Api of AlgaWorks.
 
 <h1>this project is an API that follows Rest standards. Use it for your Company/Startup that needs a service order control system.</h1>
 
-<p>you just need to download osWorks_paulopkljk-0.0.1-SNAPSHOT.jar</p>
+<p>You just need to download osWorks_paulopkljk-0.0.1-SNAPSHOT.jar</p>
+<p>Enter in Eclipse and Import the jar: osWorks_paulopkljk-0.0.1-SNAPSHOT.jar</p>
+<p>Or execute in same path: java -jar osWorks_paulopkljk-0.0.1-SNAPSHOT.jar</p> 
 
 # URI's:
 <h4>Client</h4>
