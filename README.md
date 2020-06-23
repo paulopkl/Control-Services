@@ -1,6 +1,6 @@
-<img src="./assets/spring-boot.png" alt="SpringBoot">
-<img src="./assets/modelo.png" alt="Model">
-<img src="./assets/postman.png" alt="Postman">
+<img src="./assets/spring-boot.png" alt="SpringBoot" width="50">
+<img src="./assets/modelo.png" alt="Model" width="50">
+<img src="./assets/postman.png" alt="Postman" width="50">
 
 # Control-Services
 this project was developed during the Week-SpringRest-Api of AlgaWorks.
