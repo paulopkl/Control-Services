@@ -1,3 +1,7 @@
+<img src="./assets/spring-boot.png" alt="SpringBoot">
+<img src="./assets/modelo.png" alt="Model">
+<img src="./assets/postman.png" alt="Postman">
+
 # Control-Services
 this project was developed during the Week-SpringRest-Api of AlgaWorks.
 
@@ -101,7 +105,7 @@ this project was developed during the Week-SpringRest-Api of AlgaWorks.
     "telefone": "[Client - Phone]"
 }
 
-<h4>Add - Service-Order</h4>
+<h4>Add - Service-Order | POST</h4>
 <p>Request Body:</p>
 
 {
@@ -112,7 +116,7 @@ this project was developed during the Week-SpringRest-Api of AlgaWorks.
     "preco": [Value]
 }
 
-<h4>Add - Comment</h4>
+<h4>Add - Comment | POST</h4>
 <p>Request Body</p>
 
 {
