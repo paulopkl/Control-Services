@@ -1,0 +1,2 @@
+insert into cliente (nome, email, telefone) values ('João da Silva', 'joaodasilva@gmail.com', '34 99999-3333');
+insert into cliente (nome, email, telefone) values ('Maria Abadia', 'maria@algaworks.com', '11 88888-3333');
