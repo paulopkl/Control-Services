@@ -16,23 +16,27 @@ URI's:
     <tbody>
         <tr>
             <td>Add Client</td>
-            <td>Search Client</td>
-            <td>List Client</td>
-            <td>Update Client</td>
-            <td>Delete Client</td>
-        </tr>
-        <tr>
             <td>localhost:8080/clientes</td>
-            <td>localhost:8080/clientes/{ClientId}</td>
-            <td>localhost:8080/clientes</td>
-            <td>localhost:8080/clientes/{ClientId}</td>
-            <td>localhost:8080/clientes/{ClientId}</td>
-        </tr>
-        <tr>
             <td>POST</td>
+        </tr>
+        <tr>
+            <td>Search Client</td>
+            <td>localhost:8080/clientes/{ClientId}</td>
             <td>GET</td>
+        </tr>
+        <tr>
+            <td>List Client</td>
+            <td>localhost:8080/clientes</td>
             <td>GET</td>
+        </tr>
+        <tr>
+            <td>Update Client</td>
+            <td>localhost:8080/clientes/{ClientId}</td>
             <td>PUT</td>
+        </tr>
+        <tr>
+            <td>Delete Client</td>
+            <td>localhost:8080/clientes/{ClientId}</td>
             <td>DELETE</td>
         </tr>
     </tbody>
